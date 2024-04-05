@@ -7,8 +7,8 @@
 ## Tools and Languages:
 <img align="left" alt="SQL SMSMS19" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc0Mx8gCaf66Pr3_MFU97cNIrFNDlW2vEVu78uuzyaSg&s" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://w7.pngwing.com/pngs/999/647/png-transparent-computer-icons-microsoft-visual-studio-visual-studio-code-ico-purple-angle-violet-thumbnail.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" />
+<img align="left" alt="Visual Studio" width="26px" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" />
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" />
